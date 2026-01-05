@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kaustubh Kulkarni
 
-💻 Aspiring Software Engineer | AI Engineer | Python Developer  
+### 💻 Aspiring Software Engineer | AI Engineer | Python Developer  
 🚀 Passionate about building real-world applications using AI & Mobile Tech
 
 ---
